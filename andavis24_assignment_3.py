@@ -35,8 +35,8 @@ entertainment_backlog_set = {"Naruto", "Stranger Things", "Blackish"}
 course_credits_dictionary = {"COMP 163": 3, "MATH 132": 3, "ENG 100": 3, "COMP 121": 1}
 course_professors_dictionary = {"COMP 163": "Prof. Rhodes", "MATH 132": "Dr. Johnson", "ENG 100": "Dr. Turman", "COMP 121": "Dr. Rhodes"}
 course_rooms_dictionary = {"COMP 163": "Gibbs 322", "MATH 132": "Online", "ENG 100": "GCB 102", "COMP 121": "Graham 210"}
-monthly_budget_dictionary = {"Food": 450, "Entertainment": 200, "Books": 125, "Transportation": 100}
-study_hours_per_subject_dictionary = {"Programming": 9, "Math": 8, "English": 5,}
+monthly_budget_dictionary = {"Food": 200, "Entertainment": 100, "Books": 10, "Transportation": 50}
+study_hours_per_subject_dictionary = {"Programming": 8, "Math": 5, "English": 3,}
 contact_directory_dictionary = {"Mom": "973-207-0835", "Roommate": "282-345-3844",
                                 "Academic Advisor": "336-384-4659"}
 
