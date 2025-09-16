@@ -12,10 +12,10 @@ graduation_semester = "Spring 2029"
 major = "Computer Science"
 
 # Academic Data Organization
-current_course_list = ["COMP 163", "MATH 150", "ENG 101", "HIS 100"]
-completed_course_list = ["Biology", "Chemistry", "Calculus", "Spanish II", "World History"]
-credit_hours_list = [3, 3, 3, 3]  # Corresponding to current courses
-gpa_history_list = [3.2, 3.6, 3.4, 3.7]  # Semester GPAs
+current_course_list = ["COMP 163", "MATH 132", "ENG 100", "COMP 121"]
+completed_course_list = ["Calculus 1","Micro Economics"]
+credit_hours_list = [3, 3, 3, 1]  # Corresponding to current courses
+gpa_history_list = [4.0]  # Semester GPAs
 
 # Contact Information Storage
 emergency_contact_tuple = ("Mom", "Shani Davis", "973-207-0835")
@@ -32,15 +32,13 @@ hobbies_set = {"Gaming", "Eating", "Basketball", "Music"}
 entertainment_backlog_set = {"Naruto", "Stranger Things", "Blackish", "A different World"}
 
 # Organizational Mapping
-course_credits_dictionary = {"COMP 163": 3, "MATH 150": 3, "ENG 101": 3, "HIS 105": 3}
-course_professors_dictionary = {"COMP 163": "Prof. Rhodes", "MATH 150": "Dr. Lee",
-                                "ENG 101": "Dr. Martinez", "HIS 105": "Dr. Brown"}
-course_rooms_dictionary = {"COMP 163": "M-Eric 300", "MATH 150": "Marteena 201",
-                           "ENG 101": "Crosby 121", "HIS 105": "Crosby 210"}
+course_credits_dictionary = {"COMP 163": 3, "MATH 132": 3, "ENG 100": 3, "COMP 121": 1}
+course_professors_dictionary = {"COMP 163": "Prof. Rhodes", "MATH 132": "Dr. Johnson", "ENG 100": "Dr. Turman", "COMP 121": "Dr. Rhodes"}
+course_rooms_dictionary = {"COMP 163": "Gibbs 322", "MATH 132": "Online", "ENG 100": "GCB 102", "COMP 121": "Graham 210"}
 monthly_budget_dictionary = {"Food": 450, "Entertainment": 200, "Books": 125, "Transportation": 100}
-study_hours_per_subject_dictionary = {"Programming": 10, "Math": 8, "English": 4, "History": 3}
-contact_directory_dictionary = {"Mom": "704-555-0199", "Roommate": "336-555-7821",
-                                "Academic Advisor": "336-334-5000"}
+study_hours_per_subject_dictionary = {"Programming": 9, "Math": 8, "English": 5,}
+contact_directory_dictionary = {"Mom": "973-207-0835", "Roommate": "282-345-3844",
+                                "Academic Advisor": "336-384-4659"}
 
 # -----------------------------------
 # Section 6: Required Calculations
