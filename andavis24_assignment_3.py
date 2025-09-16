@@ -26,10 +26,10 @@ birthday_tuple = ("Birthday", 9, 27, 2006)
 
 # Interest Tracking
 current_skills_set = {"Python basics", "HTML", "Problem solving", "Time management", "Leadership"}
-skills_to_learn_set = {"Data structures", "Git", "Web design", "Cyber Analytics"}
+skills_to_learn_set = {"Data structures", "Git", "Cyber Analytics"}
 career_interests_set = {"Software development", "AI development", "Data science", "Cybersecurity"}
-hobbies_set = {"Gaming", "Eating", "Basketball", "Music"}
-entertainment_backlog_set = {"Naruto", "Stranger Things", "Blackish", "A different World"}
+hobbies_set = {"Gaming", "Eating", "Basketball"}
+entertainment_backlog_set = {"Naruto", "Stranger Things", "Blackish"}
 
 # Organizational Mapping
 course_credits_dictionary = {"COMP 163": 3, "MATH 132": 3, "ENG 100": 3, "COMP 121": 1}
