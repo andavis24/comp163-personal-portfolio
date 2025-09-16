@@ -12,7 +12,7 @@ graduation_semester = "Spring 2029"
 major = "Computer Science"
 
 # Academic Data Organization
-current_course_list = ["COMP 163", "MATH 150", "ENG 101", "HIS 105"]
+current_course_list = ["COMP 163", "MATH 150", "ENG 101", "HIS 100"]
 completed_course_list = ["Biology", "Chemistry", "Calculus", "Spanish II", "World History"]
 credit_hours_list = [3, 3, 3, 3]  # Corresponding to current courses
 gpa_history_list = [3.2, 3.6, 3.4, 3.7]  # Semester GPAs
