@@ -1,14 +1,14 @@
 # -----------------------------------
 # COMP 163: Assignment 3
 # Personal Data Portfolio
-# Author: Jordan Smith
+# Author: Ajani Davis
 # -----------------------------------
 
 # Personal Information Storage
-full_name = "Jordan Smith"
-student_email = "jsmith@ncat.edu"
-hometown = "Charlotte, NC"
-graduation_semester = "Spring 2028"
+full_name = "Ajani Davis"
+student_email = "andavis24@ncat.edu"
+hometown = "Houston, TX"
+graduation_semester = "Spring 2029"
 major = "Computer Science"
 
 # Academic Data Organization
@@ -18,18 +18,18 @@ credit_hours_list = [3, 3, 3, 3]  # Corresponding to current courses
 gpa_history_list = [3.2, 3.6, 3.4, 3.7]  # Semester GPAs
 
 # Contact Information Storage
-emergency_contact_tuple = ("Mom", "Hannah Smith", "704-555-0199")
-home_address_tuple = ("456 Oak Street", "Charlotte, NC", "28202")
-instagram_info_tuple = ("Instagram", "@jordan_codes", 312)
-twitter_info_tuple = ("Twitter", "@jordandev", 127)
-birthday_tuple = ("Birthday", 5, 22, 2006)
+emergency_contact_tuple = ("Mom", "Shani Davis", "973-207-0835")
+home_address_tuple = ("26006 Fiona Sky Lane", "Katy, TX", "77494")
+instagram_info_tuple = ("Instagram", "@ajd.london_", 311)
+twitter_info_tuple = ("Twitter", "@ajd.london_", 127)
+birthday_tuple = ("Birthday", 9, 27, 2006)
 
 # Interest Tracking
-current_skills_set = {"Python basics", "HTML", "Problem solving", "Time management", "Photography"}
-skills_to_learn_set = {"JavaScript", "Data structures", "Git", "Web design", "Public speaking"}
-career_interests_set = {"Software development", "Web development", "Data science", "Game development"}
-hobbies_set = {"Gaming", "Photography", "Reading", "Soccer", "Music"}
-entertainment_backlog_set = {"One Piece", "Barry", "Life", "Incantation", "Memento"}
+current_skills_set = {"Python basics", "HTML", "Problem solving", "Time management", "Leadership"}
+skills_to_learn_set = {"Data structures", "Git", "Web design", "Cyber Analytics"}
+career_interests_set = {"Software development", "AI development", "Data science", "Cybersecurity"}
+hobbies_set = {"Gaming", "Eating", "Basketball", "Music"}
+entertainment_backlog_set = {"Naruto", "Stranger Things", "Blackish", "A different World"}
 
 # Organizational Mapping
 course_credits_dictionary = {"COMP 163": 3, "MATH 150": 3, "ENG 101": 3, "HIS 105": 3}
